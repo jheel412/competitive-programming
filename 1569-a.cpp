@@ -26,7 +26,7 @@ typedef long long ll;
 constexpr int MOD = 1e9 + 7;
  
 void solve(){
-	int N;
+  int N;
   cin >> N;
   string S;
   cin >> S;

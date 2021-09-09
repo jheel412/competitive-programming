@@ -35,7 +35,7 @@ void print(const vector<T> &v, bool add_one = false, int start = -1, int end = -
 }
 
 void solve(){
-	int N;
+  int N;
   cin >> N;
   string S;
   cin >> S;
